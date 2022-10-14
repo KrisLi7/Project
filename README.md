@@ -1,9 +1,5 @@
 
-# COMP3900 Project
-# capstone-project-3900-f12a-plznobug
-
-
-[![pytest](https://github.com/unsw-cse-comp3900-9900-22T2/capstone-project-3900-f12a-plznobug/actions/workflows/python-app.yml/badge.svg?branch=main)](https://github.com/unsw-cse-comp3900-9900-22T2/capstone-project-3900-f12a-plznobug/actions/workflows/python-app.yml)
+# Project
 
 <div class="mume markdown-preview  ">
 <ul>
@@ -26,21 +22,6 @@
 </li>
 </ul>
 
-## User documentation/manual
-
-
-Firstly, before cloning this repository via Git. setup the SSH key is needed
-And the instructions to do this can be accessed via: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
-
-
-And then, you can clone this repository as following command
-
-```shell
-# ~/whatever
-git clone git@github.com:unsw-cse-comp3900-9900-22T2/capstone-project-3900-f12a-plznobug.git
-# rename this floder
-mv capstone-project-3900-f12a-plznobug movie_finder
-cd movie_finder
 ```
 
 ### Setup Backend
